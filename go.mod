@@ -1,3 +1,3 @@
-module Chise1/gowiki
+module github.com/Chise1/gowiki
 
 go 1.16
