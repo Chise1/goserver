@@ -1,7 +1,7 @@
 package goserver
 
 import (
-	"github.com/Chise1/goserver/v2/wiki"
+	"github.com/Chise1/goserver/v3/wiki"
 	"html/template"
 	"log"
 	"net/http"

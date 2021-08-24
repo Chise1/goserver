@@ -1,3 +1,3 @@
-module github.com/Chise1/goserver/v2
+module github.com/Chise1/goserver/v3
 
 go 1.16
